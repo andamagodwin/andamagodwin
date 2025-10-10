@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [andamaezra.com](andamaezra.com)
+- 👨‍💻 All of my projects are available at [andama.me](andama.me)
 
-- 💬 Ask me about **react,typescript/javascript,nodejs**
+- 💬 Ask me about **react,typescript/javascript,nodejs,ai**
 
 - 📫 How to reach me **andamagodwinezra@gmail.com**
 
