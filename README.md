@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="./assets/Cat playing animation.gif" alt="Cat Animation" width="300" />
 
 # Andama Godwin Ezra
 
