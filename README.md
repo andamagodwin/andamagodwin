@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/Cat playing animation.gif" alt="Cat Animation" width="300" />
+<img src="./assets/Cat astronaut-pana.png" alt="Cat Animation" width="500" />
 
-# Andama Godwin Ezra
+# Andama
 
 ### I loove software
 
